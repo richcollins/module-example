@@ -1,3 +1,3 @@
 var mylib = require("./lib/mylib");
 
-console.log(mylib.a.b());
+console.log(mylib.a.useB());
